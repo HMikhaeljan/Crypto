@@ -1,0 +1,12 @@
+{
+  "chainId": 101,
+  "address":"52YxevFUM6YwxpjfSGTU4SmGuyMfGyxaKoDyhP9zeeqP",
+  "symbol": "42069GRT",
+  "name": "42069 Golden Retriever Token",  
+  "collection": null,
+  "ticker": "42069GRT",
+  "decimals": 9,
+  "image": "https://raw.githubusercontent.com/HMikhaeljan/Crypto/main/golden_retriever.png"
+  "tags": null,
+  "otherExtensions": {}
+}
